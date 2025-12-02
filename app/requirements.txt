@@ -2,3 +2,6 @@ catboost
 pandas
 numpy
 streamlit
+fastapi
+uvicorn
+python-multipart
