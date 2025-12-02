@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.env*/ 
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+model/*.cbm
+model/*.json
+
+# OS files
+.DS_Store
+
+# Render build files
+*.log
